@@ -6,4 +6,4 @@ Usage:
 
 Usage remotely: 
 
-`deno run --allow-net https://github.com/marc2332/deno_tour/blob/master/web_server/main.ts`
+`deno run --allow-net https://raw.githubusercontent.com/marc2332/deno_tour/master/web_server/main.ts`
