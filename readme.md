@@ -4,6 +4,7 @@ Current examples:
 
 * Reading local fles
 * Simple web server using Abc framework
+* Rename directories
+* Get the passed arguments
 
-
-Work in progress.
+Work in progress, feel free to contribute.
