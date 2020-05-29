@@ -6,5 +6,6 @@ Current examples:
 * Simple web server using Abc framework
 * Rename directories
 * Get the passed arguments
+* Fancy console log
 
 Work in progress, feel free to contribute.
