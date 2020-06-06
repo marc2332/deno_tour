@@ -1,4 +1,4 @@
-This is a tour through [Deno](https://deno.land/).
+This is a tour through 🦕 [Deno](https://deno.land/).
 
 Current examples:
 
@@ -7,5 +7,6 @@ Current examples:
 * Rename directories
 * Get the passed arguments
 * Fancy console log
+* Monitor changes using Denon
 
 Work in progress, feel free to contribute.
